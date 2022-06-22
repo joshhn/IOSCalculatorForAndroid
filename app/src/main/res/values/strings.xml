@@ -18,4 +18,5 @@
     <string name="_0">0</string>
     <string name="DecimalPoint">.</string>
     <string name="Equal">=</string>
+    <string name="Input" />
 </resources>
