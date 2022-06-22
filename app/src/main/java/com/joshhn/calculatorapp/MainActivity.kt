@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity() {
         if(lastNumeric && !lastDot){
             onEqual(view)
             var tvValue = ""
-
                 tvInput?.text?.let{
                 tvValue = (it.toString().toDouble()/100).toString()
             }
